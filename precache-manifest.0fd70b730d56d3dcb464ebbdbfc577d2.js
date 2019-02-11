@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/react-shop-client/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "f78c43c8694fe401207c",
-    "url": "/react-shop-client/static/css/main.ec90f3ef.chunk.css"
+    "revision": "7d915510dccc564414de",
+    "url": "/react-shop-client/static/css/main.36c80516.chunk.css"
   },
   {
-    "revision": "a98626e1aef6ceba5dfc1ee7112e235a",
-    "url": "/react-shop-client/static/media/Montserrat-Medium.a98626e1.ttf"
+    "revision": "6d1796a9f798ced8961baf3c79f894b6",
+    "url": "/react-shop-client/static/media/Montserrat-Black.6d1796a9.ttf"
   },
   {
-    "revision": "a7d197f2a67cff737330",
-    "url": "/react-shop-client/static/js/1.a7d197f2.chunk.js"
+    "revision": "9f0ade73933a47624e08",
+    "url": "/react-shop-client/static/js/1.9f0ade73.chunk.js"
   },
   {
     "revision": "09a878950dbeb179c0a5",
@@ -36,12 +36,16 @@ self.__precacheManifest = [
     "url": "/react-shop-client/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "f78c43c8694fe401207c",
-    "url": "/react-shop-client/static/js/main.f78c43c8.chunk.js"
+    "revision": "7d915510dccc564414de",
+    "url": "/react-shop-client/static/js/main.7d915510.chunk.js"
   },
   {
     "revision": "9c46095118380d38f12e67c916b427f9",
     "url": "/react-shop-client/static/media/Montserrat-Regular.9c460951.ttf"
+  },
+  {
+    "revision": "a98626e1aef6ceba5dfc1ee7112e235a",
+    "url": "/react-shop-client/static/media/Montserrat-Medium.a98626e1.ttf"
   },
   {
     "revision": "88932dadc42e1bba93b21a76de60ef7a",
@@ -64,15 +68,11 @@ self.__precacheManifest = [
     "url": "/react-shop-client/static/media/Poppins-Black.8971d171.ttf"
   },
   {
-    "revision": "6d1796a9f798ced8961baf3c79f894b6",
-    "url": "/react-shop-client/static/media/Montserrat-Black.6d1796a9.ttf"
+    "revision": "9f0ade73933a47624e08",
+    "url": "/react-shop-client/static/css/1.45db1429.chunk.css"
   },
   {
-    "revision": "a7d197f2a67cff737330",
-    "url": "/react-shop-client/static/css/1.ebc89ba4.chunk.css"
-  },
-  {
-    "revision": "15d2c23ce59afd0588f6577de5a28c5b",
+    "revision": "8eed64c914de287ef9be275003af7526",
     "url": "/react-shop-client/index.html"
   }
 ];
