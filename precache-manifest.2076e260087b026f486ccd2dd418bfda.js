@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/react-shop-client/static/media/icons.b87b9ba5.ttf"
+    "revision": "a046592bac8f2fd96e994733faf3858c",
+    "url": "/react-shop-client/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "8324edaa1cfa58f9e6ec",
-    "url": "/react-shop-client/static/css/main.8933f806.chunk.css"
+    "revision": "5cb7cca93b1c25bc4bd5",
+    "url": "/react-shop-client/static/css/main.da44c1d3.chunk.css"
   },
   {
-    "revision": "6d1796a9f798ced8961baf3c79f894b6",
-    "url": "/react-shop-client/static/media/Montserrat-Black.6d1796a9.ttf"
+    "revision": "2f3e9f80fff7d699dd3de6904d7d1647",
+    "url": "/react-shop-client/static/media/Linearicons-Free.2f3e9f80.ttf"
   },
   {
-    "revision": "c6b216afa17529217e2b",
-    "url": "/react-shop-client/static/js/1.c6b216af.chunk.js"
+    "revision": "fba71f3893400d22d8e6",
+    "url": "/react-shop-client/static/js/1.fba71f38.chunk.js"
   },
   {
     "revision": "09a878950dbeb179c0a5",
     "url": "/react-shop-client/static/js/runtime~main.09a87895.js"
-  },
-  {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/react-shop-client/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
@@ -30,6 +26,14 @@ self.__precacheManifest = [
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/react-shop-client/static/media/icons.faff9214.woff"
+  },
+  {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/react-shop-client/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/react-shop-client/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -48,32 +52,28 @@ self.__precacheManifest = [
     "url": "/react-shop-client/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/react-shop-client/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/react-shop-client/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/react-shop-client/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
     "url": "/react-shop-client/static/media/brand-icons.e8c322de.woff2"
   },
   {
-    "revision": "a046592bac8f2fd96e994733faf3858c",
-    "url": "/react-shop-client/static/media/brand-icons.a046592b.woff"
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/react-shop-client/static/media/icons.962a1bf3.svg"
+  },
+  {
+    "revision": "5cb7cca93b1c25bc4bd5",
+    "url": "/react-shop-client/static/js/main.5cb7cca9.chunk.js"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/react-shop-client/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
-    "revision": "8324edaa1cfa58f9e6ec",
-    "url": "/react-shop-client/static/js/main.8324edaa.chunk.js"
-  },
-  {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "/react-shop-client/static/media/icons.962a1bf3.svg"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -84,12 +84,12 @@ self.__precacheManifest = [
     "url": "/react-shop-client/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/react-shop-client/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/react-shop-client/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/react-shop-client/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -124,19 +124,19 @@ self.__precacheManifest = [
     "url": "/react-shop-client/static/media/Poppins-Bold.7940efc4.ttf"
   },
   {
-    "revision": "2f3e9f80fff7d699dd3de6904d7d1647",
-    "url": "/react-shop-client/static/media/Linearicons-Free.2f3e9f80.ttf"
+    "revision": "6d1796a9f798ced8961baf3c79f894b6",
+    "url": "/react-shop-client/static/media/Montserrat-Black.6d1796a9.ttf"
   },
   {
     "revision": "8971d1710cbf4c91bca1b460aec154d7",
     "url": "/react-shop-client/static/media/Poppins-Black.8971d171.ttf"
   },
   {
-    "revision": "c6b216afa17529217e2b",
-    "url": "/react-shop-client/static/css/1.e35663fe.chunk.css"
+    "revision": "fba71f3893400d22d8e6",
+    "url": "/react-shop-client/static/css/1.718b329a.chunk.css"
   },
   {
-    "revision": "84c25528565331ce86af9c30cf8d9521",
+    "revision": "27be2479ab3bdd975f67a851f0d0f4ef",
     "url": "/react-shop-client/index.html"
   }
 ];

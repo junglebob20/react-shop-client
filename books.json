@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0",
+    "title": "Происхождение",
+    "author": "Дэн Браун",
+    "images":[
+      {
+        "id":"1",
+        "url":"https://cv7.litres.ru/sbc/33231270_cover_185-elektronnaya-kniga-den-braun-proishozhdenie-27624091.jpg"
+      },
+      {
+        "id":"2",
+        "url":"https://cv2.litres.ru/sbc/31635724_cover_185-elektronnaya-kniga-donato-karrizi-devushka-v-tumane.jpg"
+      },
+      {
+        "id":"3",
+        "url":"https://cv0.litres.ru/sbc/30804904_cover_185-elektronnaya-kniga-mihail-zygar-imperiya-dolzhna-umeret.jpg"
+      }
+    ],
+    "price": 710,
+    "currency":"$",
+    "category": {
+      "id":"0",
+      "name":"Sneakers"
+    },
+    "rating": 3,
+    "sku":"SN-00",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "attributes":[
+      {
+        "id":"0",
+        "name":"Size",
+        "values":[
+          {
+            "key": "0", 
+            "value": "42", 
+            "text": "42"
+          },
+          {
+            "key": "1", 
+            "value": "43", 
+            "text": "43"
+          },
+          {
+            "key": "2", 
+            "value": "44", 
+            "text": "44"
+          }
+        ]
+      }
+    ],
+    "additional":[
+      {
+        "header":"Description",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      {
+        "header":"Additional Information",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      {
+        "header":"Reviews",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Джордж Оруэлл- 1984",
+    "author": "Джордж Оруэлл",
+    "images":[
+      {
+        "id":1,
+        "url":"https://cv0.litres.ru/sbc/09233908_cover_185-elektronnaya-kniga--.jpg"
+      },
+      {
+        "id":2,
+        "url":"https://cv5.litres.ru/sbc/17411250_cover_185-elektronnaya-kniga-guzel-yahina-zuleyha-otkryvaet-glaza-2.jpg"
+      },
+      {
+        "id":2,
+        "url":"https://cv6.litres.ru/sbc/33328364_cover_185-elektronnaya-kniga-andzhey-sapkovskiy-vedmak.jpg"
+      }
+    ],
+    "price": 20,
+    "currency":"$",
+    "category": {
+      "id":"0",
+      "name":"Sneakers"
+    },
+    "rating": 5,
+    "sku":"SN-01",
+    "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "attributes":[
+      {
+        "id":"0",
+        "name":"Size",
+        "values":[
+          {
+            "key": "0", 
+            "value": "42", 
+            "text": "42"
+          },
+          {
+            "key": "1", 
+            "value": "43", 
+            "text": "43"
+          },
+          {
+            "key": "2", 
+            "value": "44", 
+            "text": "44"
+          }
+        ]
+      }
+    ],
+    "additional":[
+      {
+        "header":"Description",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      {
+        "header":"Additional Information",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      },
+      {
+        "header":"Reviews",
+        "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      }
+    ]
+  }
+]
